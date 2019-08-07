@@ -1,2 +1,2 @@
 --scores do jogo GuardiÃµes do EspaÃ§o-- 
-null 5
+null 2
